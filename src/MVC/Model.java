@@ -2,8 +2,8 @@ package MVC;
 
 public class Model {
 
-    String name;
-    int [] arr;
+    String name = "To samoe mesto";
+    int [] arr =  {12,4,3,22,5};
 
     public String getName() {
         return name;

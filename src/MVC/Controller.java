@@ -2,8 +2,9 @@ package MVC;
 
 public class Controller {
     Interface Iinterface = new DBModel();
-
+    IView iView = new ConsolView();
     void execute() {
-        System.out.println("control");
+        Model model = Iinterface.getModel();
+        iView.showStudent(model);
     }
 }
