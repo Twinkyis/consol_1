@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b7a163-bceb-4bb9-a43b-dbdbb28461d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MVP/BDButtorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVP/Model_Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVVM/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVVM/Model_Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVVM/View_Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ARD.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ARD.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/IButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/IView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/View.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MVP/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/IButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/IButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/DBButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/IDBButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/IView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/Presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Presenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVP/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVVM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVVM/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +65,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="MVC_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MVVM.Main" />
+      <module name="MVC_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MVVM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MVP.Main" />
       <module name="MVC_pattern" />
       <extension name="coverage">
@@ -76,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
       </list>
@@ -94,6 +140,9 @@
       <workItem from="1640455409801" duration="5579000" />
       <workItem from="1640502898797" duration="1748000" />
       <workItem from="1640546849197" duration="1350000" />
+      <workItem from="1640595497563" duration="4814000" />
+      <workItem from="1640638158950" duration="3135000" />
+      <workItem from="1640683618863" duration="2263000" />
     </task>
     <servers />
   </component>
