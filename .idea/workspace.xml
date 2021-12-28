@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b7a163-bceb-4bb9-a43b-dbdbb28461d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MVP/Model_Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MVVM/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MVVM/Model_Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MVVM/View_Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ARD.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ARD.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/IButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/IView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVP/View.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/DBButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/IDBButton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/IView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/Presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVP/Presenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVP/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVVM/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVVM/Button.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MVVM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVVM/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVVM/View_Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVVM/View_Model.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +124,7 @@
       <workItem from="1640546849197" duration="1350000" />
       <workItem from="1640595497563" duration="4814000" />
       <workItem from="1640638158950" duration="3135000" />
-      <workItem from="1640683618863" duration="2263000" />
+      <workItem from="1640683618863" duration="4183000" />
     </task>
     <servers />
   </component>

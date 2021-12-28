@@ -12,6 +12,7 @@ public class View_Model {
         this.button = button;
     }
 
+
     void doing (){
         if (button.click == true) {
             model_button.clickOn();
