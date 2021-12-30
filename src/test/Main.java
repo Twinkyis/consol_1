@@ -1,5 +1,7 @@
 package test;
 
+import java.util.Date;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -20,6 +22,15 @@ class Aa {
         else if (A == false) {
             System.out.println("fail");
         }
-    }
+//            Date date = new Date();
+//        System.out.println(date.toString());
+
+            Date date = new Date();
+
+            long millis = date.getTime();
+
+            System.out.println(String.valueOf(millis));
+       }
 }
+
 
