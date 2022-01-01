@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b7a163-bceb-4bb9-a43b-dbdbb28461d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/test_coll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Test_Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVVM/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVVM/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/test/Aa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/test/Aa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVVM/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVVM/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test_coll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test_coll.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test_coll">
+  <component name="RunManager" selected="Application.Test_Lesson">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="MVC_pattern" />
@@ -103,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test_Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Test_Lesson" />
+      <module name="MVC_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test_coll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.test_coll" />
       <module name="MVC_pattern" />
@@ -118,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_Lesson" />
         <item itemvalue="Application.test_coll" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +156,10 @@
       <workItem from="1640717691376" duration="1663000" />
       <workItem from="1640803527389" duration="5000" />
       <workItem from="1640803621359" duration="501000" />
-      <workItem from="1640853903980" duration="2765000" />
+      <workItem from="1640853903980" duration="4573000" />
+      <workItem from="1640870632282" duration="3881000" />
+      <workItem from="1640939150523" duration="3359000" />
+      <workItem from="1641037176449" duration="2184000" />
     </task>
     <servers />
   </component>
