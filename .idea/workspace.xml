@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b7a163-bceb-4bb9-a43b-dbdbb28461d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection/List/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Set/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Set/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Set/LinkedHash_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Set/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test01/iterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/Collection/Test_Lesson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/ArrayList/ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/ArrayList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Set/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Set/Enum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +166,7 @@
       <workItem from="1641051451527" duration="1083000" />
       <workItem from="1641057498746" duration="1071000" />
       <workItem from="1641061094456" duration="1897000" />
-      <workItem from="1641101224057" duration="16875000" />
+      <workItem from="1641101224057" duration="18518000" />
     </task>
     <servers />
   </component>
