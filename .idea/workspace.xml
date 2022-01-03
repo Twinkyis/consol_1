@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b7a163-bceb-4bb9-a43b-dbdbb28461d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Collection/Set/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Hash/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Set/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Set/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/Collection/List/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/Collection/Set/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/Collection/Set/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/Collection/Set/test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/ConsolView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/ConsolView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/IView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/IView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC_pattern/MVC/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/List/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/List/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Queue/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Queue/Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Set/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Set/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVC/ConsolView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/ConsolView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVC/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVC/IView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/IView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MVC/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/Model.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Enum">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.Set.Enum" />
       <module name="MVC_pattern" />
@@ -64,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.Set.Hash" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.List.List" />
       <module name="MVC_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.Set.*" />
+          <option name="PATTERN" value="Collection.Set.test02" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHash_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.Set.LinkedHash_" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Hash.Main" />
       <module name="MVC_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.Set.*" />
+          <option name="PATTERN" value="Map.Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.List.Main" />
+      <option name="MAIN_CLASS_NAME" value="MVC.Main" />
       <module name="MVC_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.List.*" />
+          <option name="PATTERN" value="MVC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,10 +146,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Enum" />
-        <item itemvalue="Application.LinkedHash_" />
         <item itemvalue="Application.Tree" />
-        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.List" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -166,7 +181,9 @@
       <workItem from="1641051451527" duration="1083000" />
       <workItem from="1641057498746" duration="1071000" />
       <workItem from="1641061094456" duration="1897000" />
-      <workItem from="1641101224057" duration="18518000" />
+      <workItem from="1641101224057" duration="19420000" />
+      <workItem from="1641205979585" duration="9712000" />
+      <workItem from="1641225062858" duration="1410000" />
     </task>
     <servers />
   </component>

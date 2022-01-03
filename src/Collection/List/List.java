@@ -3,10 +3,10 @@ package Collection.List;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.TreeSet;
 
-public class Main {
+public class List {
     public static void main(String[] args) {
-
 
 //  коллекция Array ================================================================
         ArrayList<String> numPhone = new ArrayList<>();
@@ -18,13 +18,6 @@ public class Main {
         numPhone.add("Phoebe");
 
         System.out.println(numPhone);
-
-
-
-
-
-//==================================================================================
-
 
 // колекция LinkedList =============================================================
         String n1 = new String("n1");
@@ -41,3 +34,6 @@ public class Main {
 //===================================================================================
     }
 }
+
+
+

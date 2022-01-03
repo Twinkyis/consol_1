@@ -1,10 +1,10 @@
 package MVC;
 
 public class Controller {
-    Interface Iinterface = new DBModel();
+    Interface P_interface = new DBModel();
     IView iView = new ConsolView();
     void execute() {
-        Model model = Iinterface.getModel();
-        iView.showStudent(model);
+        Model model = P_interface.getModel();
+        iView.show(model);
     }
 }

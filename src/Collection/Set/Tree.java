@@ -1,31 +1,33 @@
 package Collection.Set;
 
-import java.util.Comparator;
-import java.util.Iterator;
 import java.util.TreeSet;
 
 public class Tree {
     public static void main(String[] args) {
-        TreeSet<String> test02 = new TreeSet<>();
-        test02.add("044-44-44");
-        test02.add("044-55-55");
-        test02.add("144-66-66");
-        test02.add("055-55-55");
-        for (Object o : test02) {
+
+
+        TreeSet<String> Number = new TreeSet<>();
+        Number.add("044-44-44");
+        Number.add("044-55-55");
+        Number.add("144-66-66");
+        Number.add("055-55-55");
+        for (Object o : Number) {
             System.out.println(o);
         }
-        System.out.println(test02.first());
+        System.out.println(Number.first());
     }
 }
 
-abstract class test02 implements Comparable {
+
+
+abstract class Number implements Comparable {
     int num;
 
-    public test02(int num) {
+    public Number(int num) {
         this.num = num;
     }
 
-    public int compareTo(test02 t) {
+    public int compareTo(Number t) {
         if (t.num > this.num) {
             return this.num - t.num;
         }

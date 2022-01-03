@@ -1,5 +1,5 @@
 package MVC;
 
 public interface IView {
-    void showStudent(Model model);
+    void show(Model model);
 }
